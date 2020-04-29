@@ -60,6 +60,7 @@ gem 'carrierwave'
 gem 'mini_magick'
 gem 'stripe'
 gem 'trix'
+gem 'simple_form', '~> 5.0', '>= 5.0.2'
 
 group :development, :test do
   gem 'better_errors'
